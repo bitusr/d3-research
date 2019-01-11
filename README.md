@@ -1,4 +1,4 @@
-### Playground with D3.js
+# Playground with D3.js
 
 - [Official D3 docs](https://d3js.org/)
 
