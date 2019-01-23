@@ -9,6 +9,8 @@
 - [D3 and React, Shirley Wu](https://www.youtube.com/watch?v=zXBdNDnqV2Q)
 - [Implementation of, as it seems, good integration of D3 into React](https://www.youtube.com/watch?v=65UojvN1Qqs&feature=youtu.be)
 - [Basic patterns well explained by Jos Dirksen](https://www.youtube.com/watch?v=rJp_GDtLKjo)
+- [Data Visualization for React Developers, Shirley Wu](https://frontendmasters.com/courses/d3-js-react/)
+- [Building Custom Data Visualizations, Shirley Wu](https://frontendmasters.com/workshops/building-dataviz/)
 
 ## Books
 - [Interactive Data Visualization for the Web, Scott Murray](https://alignedleft.com/tutorials/d3)
