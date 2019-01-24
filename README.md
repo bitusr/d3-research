@@ -1,6 +1,7 @@
 # Playground with D3.js
 
 - [Official D3 docs](https://d3js.org/)
+- [Official D3 tutorials](https://github.com/d3/d3/wiki/Tutorials)
 
 ## Interesting presentations and articles
 - [2017.04.26 Михаил Дунаев. Инфографика в браузере с помощью d3.js](https://www.youtube.com/watch?v=lkTH4-jsioA)
