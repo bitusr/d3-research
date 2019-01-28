@@ -11,6 +11,7 @@
 - [Basic patterns well explained by Jos Dirksen](https://www.youtube.com/watch?v=rJp_GDtLKjo)
 - [D3 and React, Shirley Wu](https://www.youtube.com/watch?v=zXBdNDnqV2Q)
 - [CSS Tricks. How to scale svg to fit in certain size](https://css-tricks.com/scale-svg/#article-header-id-3)
+- [10 D3 must knows](https://animateddata.co.uk/articles/d3/whatisd3/)
 
 ## The very best articles
 - [Article on grids by Chuck Grimmett](http://www.cagrimmett.com/til/2016/08/17/d3-lets-make-a-grid.html)
