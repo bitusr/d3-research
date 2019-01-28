@@ -37,19 +37,15 @@ const getRandomSquareColor = d => {
 function onClickableSquareClick(d) {
   d.click++;
   const clickNumber = d.click % MAX_NUMBER_OF_SQUARE_CLICKS;
-  if (clickNumber === 0) d3.select(this).style(`fill`, SQUARE_COLORS.zero);
-  if (clickNumber === 1) d3.select(this).style(`fill`, SQUARE_COLORS.one);
-  if (clickNumber === 2) d3.select(this).style(`fill`, SQUARE_COLORS.two);
-  if (clickNumber === 3) d3.select(this).style(`fill`, SQUARE_COLORS.three);
+  const color = getColor(clickNumber);
+  d3.select(this).style(`fill`, color);
 }
 
 function onMOSquareMouseOver(d) {
   d.mouseOverCount++;
   const clickNumber = d.mouseOverCount % MAX_NUMBER_OF_SQUARE_CLICKS;
-  if (clickNumber === 0) d3.select(this).style(`fill`, SQUARE_COLORS.zero);
-  if (clickNumber === 1) d3.select(this).style(`fill`, SQUARE_COLORS.one);
-  if (clickNumber === 2) d3.select(this).style(`fill`, SQUARE_COLORS.two);
-  if (clickNumber === 3) d3.select(this).style(`fill`, SQUARE_COLORS.three);
+  const color = getColor(clickNumber);
+  d3.select(this).style(`fill`, color);
 }
 
 /**
