@@ -17,12 +17,12 @@ body {
   box-sizing: border-box;
 }
 
-.wrapperReusableChart {
-  background-color: rgb(240,128,128);
+.wrapper svg {
+  width: 100%;
 }
 
-.wrapperReusableChart svg {
-  width: 100%;
+.wrapperReusableChart {
+  background-color: rgb(240,128,128);
 }
 
 .reusableChartText {
