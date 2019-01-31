@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+}
+
+.graphContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  width: 1700px;
+  height: 540px;
+  padding-top: 20px;
+  box-sizing: border-box;
+}
+
+.wrapperReusableChart {
+  background-color: rgb(240,128,128);
+}
+
+.wrapperReusableChart svg {
+  width: 100%;
+}
+
+.reusableChartText {
+  text-anchor: middle;
+}

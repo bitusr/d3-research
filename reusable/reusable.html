@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="reusable.css">
+  <title>Reusable charts</title>
+</head>
+<body>
+
+  <section class="graphContainer">
+    <h1>Exploring reusability of D3 charts</h1>
+
+    <div class="wrapper wrapperReusableChart" id="reusableChartOne"></div>
+  </section>
+
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="reusable.js"></script>
+
+  <script>
+
+    const vis = ReusableVisual().config({ width: 1700, height: 400 });
+
+    d3.select(`#reusableChartOne`)
+      .append(`svg`)
+      .datum([0, 0, 0])
+      .call(vis);
+
+  </script>
+
+</body>
+</html>
