@@ -9,11 +9,9 @@
 
     const chart = selection => {
       selection.each(function(data, i) {
+        const svg = d3.select(this);
 
-        // here "this" is svg and "this" should be svg
-        const element = d3.select(this);
-
-        element.append(`text`)
+        svg.append(`text`)
           .text(`Width of the chart is: ${chart.width}. The length of the data is ${data.length}`)
           .attr(`x`, chart.width / 2)
           .attr(`y`, chart.height / 2)
