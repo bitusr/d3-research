@@ -17,10 +17,6 @@ body {
   box-sizing: border-box;
 }
 
-.wrapper svg {
-  width: 100%;
-}
-
 .wrapperReusableChart {
   background-color: rgb(240,128,128);
 }
