@@ -15,15 +15,12 @@
 
 ## The very best articles
 - [Article on grids by Chuck Grimmett](http://www.cagrimmett.com/til/2016/08/17/d3-lets-make-a-grid.html)
+- [D3 stuff by Chuck Grimmet](http://www.cagrimmett.com/til/#d3.js)
 
 ## Important examples
 - [Interactive Treemap by Chuck Grimmett](http://bl.ocks.org/cagrimmett/4a639fc79bbaa038849c865b99b1ddcc)
 - [A square with an interesting background pattern by Chuck Grimmett](https://bl.ocks.org/cagrimmett/f5213aa01b819fa47059fb3ff4ea074a)
 - [D3 Hexbin in color](https://beta.observablehq.com/@mbostock/d3-hexbin)
-
-## Tutorials
-- [Data Visualization for React Developers, Shirley Wu](https://frontendmasters.com/courses/d3-js-react/)
-- [Building Custom Data Visualizations, Shirley Wu](https://frontendmasters.com/workshops/building-dataviz/)
 
 ## Books
 - [Interactive Data Visualization for the Web, Scott Murray](https://alignedleft.com/tutorials/d3)
