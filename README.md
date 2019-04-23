@@ -3,6 +3,9 @@
 - [Official D3 docs](https://d3js.org/)
 - [Official D3 tutorials](https://github.com/d3/d3/wiki/Tutorials)
 
+## Mike Bostock's account
+- [Mike Bostock's articles](https://bost.ocks.org/mike/)
+
 ## Interesting presentations and articles
 - [2017.04.26 Михаил Дунаев. Инфографика в браузере с помощью d3.js](https://www.youtube.com/watch?v=lkTH4-jsioA)
 - [Thinking with Joins](https://bost.ocks.org/mike/join/)
